@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing Git.md",
+                "file": "Git For Managers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Git"
+              "title": "Git For Managers"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Git.md",
+                "file": "Git For Managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Testing Git"
+              "title": "Backlinks for Git For Managers"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing Git.md",
+                "file": "Git For Managers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Testing Git"
+              "title": "Outgoing links from Git For Managers"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing Git.md",
+                "file": "Git For Managers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Testing Git"
+              "title": "Outline of Git For Managers"
             }
           },
           {
@@ -179,8 +179,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43267a280240a35f",
+  "active": "7cdf02bf1a0dd8fb",
   "lastOpenFiles": [
-    "Testing Git.md"
+    "Git For Managers.md"
   ]
 }
