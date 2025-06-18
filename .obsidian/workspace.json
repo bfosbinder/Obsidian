@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc4ba762568e8e8",
+        "id": "2b97f2308924df7b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b21ae38251c33ff",
+            "id": "55028344ef8db748",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "CNC Tool.md",
-                "bFile": "CNC Tool.md",
-                "aRef": ""
+                "file": "Shop Stuff/CNC Tool.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: CNC Tool"
+              "icon": "lucide-file",
+              "title": "CNC Tool"
             }
           }
         ]
@@ -179,13 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b21ae38251c33ff",
+  "active": "7cdf02bf1a0dd8fb",
   "lastOpenFiles": [
-    "CNC Tool.md",
+    "Shop Stuff",
+    "calibre setup/Host Your Calibre Library on GitHub Pages.md",
+    "Shop Stuff/CNC Tool.md",
     "Git/Git For Managers.md",
     "Git/Local setup.md",
     "Git/Git workflow.md",
-    "calibre setup/Host Your Calibre Library on GitHub Pages.md",
     "calibre setup",
     "Git/Why Git -  A Strategic Solution for Aerospace CNC Manufacturing.md",
     "Git/Untitled.md",
