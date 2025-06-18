@@ -1,3 +1,5 @@
+# Establishing a Master Tool Library Across Mazak Parts
+
 ## Purpose
 
 Provide a clear, data‑backed case for transitioning from part‑specific tool sheets to a shared “master tool” framework, where identical tool assemblies are reused across multiple aerospace parts. The goal is to quantify the time savings and reduction in human error for both Engineering and the Tool Room.
@@ -18,7 +20,7 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 |Area|Impact|
 |---|---|
 |Setup time|Re‑building common tools for every part inflates setup minutes/hours.|
-|Consistency|Slight naming variations (e.g., `END MILL .5A` vs `E-MILL .500 A`) cause duplicate builds and confusion.|
+|Consistency|Same tool name is rebuilt differently across parts (e.g., two parts list `Endmill .5A` but each specifies a different holder, cutter, or stick‑out), leading to duplicate assemblies and setup mistakes.|
 |Scrap & Rework|Re‑built tools may deviate in stick‑out or holder, leading to mismatches with proven programs.|
 |Inventory|Extra inserts & holders are consumed to duplicate tools already available.|
 
