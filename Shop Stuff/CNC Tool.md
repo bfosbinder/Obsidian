@@ -19,7 +19,7 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 |Area|Impact|
 |---|---|
-|Setup time|Re‑building common tools for every part inflates setup minutes/hours.|
+|Setup time|Re‑building common tools for every part inflates setup minutes/hours—**≈ 7 min per tool** on average.|
 |Consistency|Same tool name is rebuilt differently across parts (e.g., two parts list `Endmill .5A` but each specifies a different holder, cutter, or stick‑out), leading to duplicate assemblies and setup mistakes.|
 |Scrap & Rework|Re‑built tools may deviate in stick‑out or holder, leading to mismatches with proven programs.|
 |Inventory|Extra inserts & holders are consumed to duplicate tools already available.|
@@ -41,13 +41,13 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ## 3  Pilot Results (40 Parts Consolidated)
 
-|                                  |                                        |                     |               |
-| -------------------------------- | -------------------------------------- | ------------------- | ------------- |
-| Metric                           | Before (per‑part lists)                | After (master list) | Δ Improvement |
-| Unique tool assemblies           | _≈1,400_ builds (≈35 tools × 40 parts) | **175** total       | **‑87 %**     |
-| Avg. first‑time setups/week      | _[insert]_                             | _[insert]_          |               |
-| Setup minutes saved/run          | _[insert]_                             |                     |               |
-| Reported build errors (per week) | **≈10**                                | **0** so far        | **‑100 %**    |
+|                                  |                                        |                                            |               |
+| -------------------------------- | -------------------------------------- | ------------------------------------------ | ------------- |
+| Metric                           | Before (per‑part lists)                | After (master list)                        | Δ Improvement |
+| Unique tool assemblies           | _≈1,400_ builds (≈35 tools × 40 parts) | **175** total                              | **‑87 %**     |
+| Avg. first‑time setups/week      | _[insert]_                             | _[insert]_                                 |               |
+| Setup minutes saved/run          | —                                      | **≈80‑120 min** (20 tools × 4‑6 min saved) | —             |
+| Reported build errors (per week) | **≈10**                                | **0** so far                               | **‑100 %**    |
 
 > **Finding:** A core library of **175 tools** now satisfies all 40 pilot parts, eliminating ~1,225 duplicate builds.
 
@@ -57,7 +57,7 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 - **Usage & Cost Tracking** – Because the core tools stay built (currently used only on aluminum parts), we can log spindle‑on minutes per tool, revealing true cost‑per‑cut and improving forecasts for insert and holder spend.
     
-- **Time Savings** – Tool setters pull a proven assembly instead of building from scratch; preliminary logs show a **4‑6 min reduction per tool**, translating to **80‑120 min saved** on a typical 20‑tool setup. The reclaimed time allows setters to **inspect stored tools for wear or damage**, preventing unexpected failures.
+- **Time Savings** – Tool setters pull a proven assembly instead of building from scratch; with a baseline of **~7 min build time per tool**, preliminary logs show a **4‑6 min reduction per tool**, translating to **80‑120 min saved** on a typical 20‑tool setup. The reclaimed time allows setters to **inspect stored tools for wear or damage**, preventing unexpected failures.
     
 - **Error Reduction** – Reusing the exact holder & stick‑out eliminates trial cuts and dimensional variance.
     
@@ -84,7 +84,7 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ## 6  Open Questions / Data Needed
 
-- Precise average build time per tool (to tighten ROI).
+- Validate the assumed **7 min average build time per tool** with a brief time study to tighten ROI.
     
 - Historical scrap/rework hours attributable to incorrect tool builds.
     
