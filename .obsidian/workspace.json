@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43267a280240a35f",
+            "id": "1b21ae38251c33ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git For Managers.md",
+                "file": "CNC Tool Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git For Managers"
-            }
-          },
-          {
-            "id": "f4a9e477e6893970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git For Managers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git For Managers"
-            }
-          },
-          {
-            "id": "437c8f8d2e8a8bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Local setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local setup"
-            }
-          },
-          {
-            "id": "36016f8acb7186dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git workflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git workflow"
-            }
-          },
-          {
-            "id": "5e6e42b0e2006c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "calibre setup/Host Your Calibre Library on GitHub Pages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Host Your Calibre Library on GitHub Pages"
+              "title": "CNC Tool Library"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,15 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cdf02bf1a0dd8fb",
+  "active": "1b21ae38251c33ff",
   "lastOpenFiles": [
+    "CNC Tool Library.md",
+    "Git/Git For Managers.md",
+    "Git/Local setup.md",
     "Git/Git workflow.md",
     "calibre setup/Host Your Calibre Library on GitHub Pages.md",
     "calibre setup",
-    "Git/Local setup.md",
     "Git/Why Git -  A Strategic Solution for Aerospace CNC Manufacturing.md",
     "Git/Untitled.md",
-    "Git/Git For Managers.md",
     "Git"
   ]
 }
