@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNC Tool Library.md",
+                "file": "CNC Tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNC Tool Library"
+              "title": "CNC Tool"
             }
           }
         ]
@@ -181,7 +181,7 @@
   },
   "active": "1b21ae38251c33ff",
   "lastOpenFiles": [
-    "CNC Tool Library.md",
+    "CNC Tool.md",
     "Git/Git For Managers.md",
     "Git/Local setup.md",
     "Git/Git workflow.md",
