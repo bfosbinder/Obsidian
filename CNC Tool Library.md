@@ -47,7 +47,7 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 |Unique tool assemblies|_≈1,400_ builds (≈35 tools × 40 parts)|**175** total|**‑87 %**|
 |Avg. first‑time setups/week|_[insert]_|_[insert]_||
 |Setup minutes saved/run|_[insert]_|||
-|Reported build errors|_[insert]_|**0** so far||
+|Reported build errors (per week)|**≈10**|**0** so far|**‑100 %**|
 
 > **Finding:** A core library of **175 tools** now satisfies all 40 pilot parts, eliminating ~1,225 duplicate builds.
 
@@ -55,7 +55,9 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ## 4  Benefits
 
-- **Time Savings** – Tool setters pull a proven assembly instead of building from scratch; preliminary logs show a **4‑6 min reduction per tool**, translating to **80‑120 min saved** on a typical 20‑tool setup.
+- **Usage & Cost Tracking** – Because the core tools stay built (currently used only on aluminum parts), we can log spindle‑on minutes per tool, revealing true cost‑per‑cut and improving forecasts for insert and holder spend.
+    
+- **Time Savings** – Tool setters pull a proven assembly instead of building from scratch; preliminary logs show a **4‑6 min reduction per tool**, translating to **80‑120 min saved** on a typical 20‑tool setup. The reclaimed time allows setters to **inspect stored tools for wear or damage**, preventing unexpected failures.
     
 - **Error Reduction** – Reusing the exact holder & stick‑out eliminates trial cuts and dimensional variance.
     
@@ -75,8 +77,8 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 |Owner|Task|Due|
 |Production Eng.|Validate master‑tool keys for remaining 120 parts|[date]|
 |Tool Room Lead|Identify physical storage for ~200 permanent assemblies|[date]|
-|IT / DBA|Build Part–Tool join table in Oracle APEX|[date]|
-|Quality|Update FAI templates to pull master tool IDs|[date]|
+|IT / DBA|Enhance and maintain the existing Excel‑based Part–Tool join table (auto‑imports from Mazak programs & Solutionware Tool Manager; add refresh automation and version backups)|[date]|
+|Production Eng.|Update legacy tool sheets to the new Excel‑based tool sheets|[date]|
 
 ---
 
