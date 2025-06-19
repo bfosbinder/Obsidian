@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Why Git -  A Strategic Solution for Aerospace CNC Manufacturing.md",
+                "file": "2025-06-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why Git -  A Strategic Solution for Aerospace CNC Manufacturing"
+              "title": "2025-06-17"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Why Git -  A Strategic Solution for Aerospace CNC Manufacturing.md",
+                "file": "2025-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Why Git -  A Strategic Solution for Aerospace CNC Manufacturing"
+              "title": "Backlinks for 2025-06-17"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Why Git -  A Strategic Solution for Aerospace CNC Manufacturing.md",
+                "file": "2025-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Why Git -  A Strategic Solution for Aerospace CNC Manufacturing"
+              "title": "Outgoing links from 2025-06-17"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Why Git -  A Strategic Solution for Aerospace CNC Manufacturing.md",
+                "file": "2025-06-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why Git -  A Strategic Solution for Aerospace CNC Manufacturing"
+              "title": "Outline of 2025-06-17"
             }
           },
           {
@@ -222,10 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cdf02bf1a0dd8fb",
+  "active": "36016f8acb7186dd",
   "lastOpenFiles": [
-    "Git/Untitled.md",
+    "Untitled.canvas",
+    "2025-06-17.md",
     "Git/Why Git -  A Strategic Solution for Aerospace CNC Manufacturing.md",
+    "Git/Untitled.md",
     "Git/Git workflow.md",
     "Git/Local setup.md",
     "Git/Git For Managers.md",
