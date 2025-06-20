@@ -8,7 +8,7 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ## 1  Current Workflow ("One‑Part, One‑List")
 
-- Each CNC program exports a tool sheet listing **every** tool required for that part.
+- Production engineers manually create each tool sheet, typing Mazak tool names and details by hand for every part—this data entry is prone to typos or mismatches, whereas the new Excel system pulls names directly from Mazak programs and ensures perfect alignment.
     
 - Tool setters build every tool from scratch—even when an identical assembly was just used on a previous job.
     
@@ -41,13 +41,13 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ## 3  Pilot Results (40 Parts Consolidated)
 
-|                                  |                                        |                                            |               |
-| -------------------------------- | -------------------------------------- | ------------------------------------------ | ------------- |
-| Metric                           | Before (per‑part lists)                | After (master list)                        | Δ Improvement |
-| Unique tool assemblies           | _≈1,400_ builds (≈35 tools × 40 parts) | **175** total                              | **‑87 %**     |
-| Avg. first‑time setups/week      | _[insert]_                             | _[insert]_                                 |               |
-| Setup minutes saved/run          | —                                      | **≈80‑120 min** (20 tools × 4‑6 min saved) | —             |
-| Reported build errors (per week) | **≈10**                                | **0** so far                               | **‑100 %**    |
+|   |   |   |   |
+|---|---|---|---|
+|Metric|Before (per‑part lists)|After (master list)|Δ Improvement|
+|Unique tool assemblies|_≈1,400_ builds (≈35 tools × 40 parts)|**175** total|**‑87 %**|
+|Avg. first‑time setups/week|_[insert]_|_[insert]_||
+|Setup minutes saved/run|—|**≈80‑120 min** (20 tools × 4‑6 min saved)|—|
+|Reported build errors (per week)|**≈10**|**0** so far|**‑100 %**|
 
 > **Finding:** A core library of **175 tools** now satisfies all 40 pilot parts, eliminating ~1,225 duplicate builds.
 
