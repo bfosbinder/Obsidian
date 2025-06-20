@@ -19,12 +19,12 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ### Pain Points
 
-|Area|Impact|
-|---|---|
-|Setup time|Re‑building common tools for every part inflates setup minutes/hours—**≈ 7 min per tool** on average.|
-|Consistency|Same tool name is rebuilt differently across parts (e.g., two parts list `Endmill .5A` but each specifies a different holder, cutter, or stick‑out), leading to duplicate assemblies and setup mistakes.|
-|Scrap & Rework|Re‑built tools may deviate in stick‑out or holder, leading to mismatches with proven programs.|
-|Inventory|Extra inserts & holders are consumed to duplicate tools already available.|
+| Area           | Impact                                                                                                                                                                                                   |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Setup time     | Re‑building common tools for every part inflates setup minutes/hours—**≈ 7 min per tool** on average.                                                                                                    |
+| Consistency    | Same tool name is rebuilt differently across parts (e.g., two parts list `Endmill .5A` but each specifies a different holder, cutter, or stick‑out), leading to duplicate assemblies and setup mistakes. |
+| Scrap & Rework | Re‑built tools may deviate in stick‑out or holder, leading to mismatches with proven programs.                                                                                                           |
+| Inventory      | Extra inserts & holders are consumed to duplicate tools already available.                                                                                                                               |
 
 ---
 
