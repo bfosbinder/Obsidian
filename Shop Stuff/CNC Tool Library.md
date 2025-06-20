@@ -41,13 +41,13 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ## 3  Pilot Results (40 Parts Consolidated)
 
-|   |   |   |   |
-|---|---|---|---|
-|Metric|Before (per‑part lists)|After (master list)|Δ Improvement|
-|Unique tool assemblies|_≈1,400_ builds (≈35 tools × 40 parts)|**175** total|**‑87 %**|
-|Avg. first‑time setups/week|_[insert]_|_[insert]_||
-|Setup minutes saved/run|—|**≈80‑120 min** (20 tools × 4‑6 min saved)|—|
-|Reported build errors (per week)|**≈10**|**0** so far|**‑100 %**|
+|                                  |                                        |                                            |               |
+| -------------------------------- | -------------------------------------- | ------------------------------------------ | ------------- |
+| Metric                           | Before (per‑part lists)                | After (master list)                        | Δ Improvement |
+| Unique tool assemblies           | _≈1,400_ builds (≈35 tools × 40 parts) | **175** total                              | **‑87 %**     |
+| Avg. first‑time setups/week      | _[insert]_                             | _[insert]_                                 |               |
+| Setup minutes saved/run          | —                                      | **≈80‑120 min** (20 tools × 4‑6 min saved) | —             |
+| Reported build errors (per week) | **≈10**                                | **0** so far                               | **‑100 %**    |
 
 > **Finding:** A core library of **175 tools** now satisfies all 40 pilot parts, eliminating ~1,225 duplicate builds.
 
