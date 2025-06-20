@@ -2,7 +2,9 @@
 
 ## Purpose
 
-Provide a clear, data‑backed case for transitioning from part‑specific tool sheets to a shared “master tool” framework, where identical tool assemblies are reused across multiple aerospace parts. The goal is to quantify the time savings and reduction in human error for both Engineering and the Tool Room.
+Provide a clear, data‑backed case for transitioning from part‑specific tool sheets to a shared “master tool” framework, where identical tool assemblies are reused across multiple aerospace parts. Although our shop routinely machines **≈300 active part numbers**, this initial trial focuses on **40 representative parts** to validate the concept at a manageable scale. The goal is to quantify the time savings and reduction in human error for both Engineering and the Tool Room.
+
+--- where identical tool assemblies are reused across multiple aerospace parts. The goal is to quantify the time savings and reduction in human error for both Engineering and the Tool Room.
 
 ---
 
@@ -39,17 +41,17 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ---
 
-## 3  Pilot Results (40 Parts Consolidated)
+## 3  Pilot Results (40 of ~300 Active Parts Consolidated) Parts Consolidated)
 
-|                                  |                                        |                                            |               |
-| -------------------------------- | -------------------------------------- | ------------------------------------------ | ------------- |
-| Metric                           | Before (per‑part lists)                | After (master list)                        | Δ Improvement |
-| Unique tool assemblies           | _≈1,400_ builds (≈35 tools × 40 parts) | **175** total                              | **‑87 %**     |
-| Avg. first‑time setups/week      | _[insert]_                             | _[insert]_                                 |               |
-| Setup minutes saved/run          | —                                      | **≈80‑120 min** (20 tools × 4‑6 min saved) | —             |
-| Reported build errors (per week) | **≈10**                                | **0** so far                               | **‑100 %**    |
+|   |   |   |   |
+|---|---|---|---|
+|Metric|Before (per‑part lists)|After (master list)|Δ Improvement|
+|Unique tool assemblies|≈800 builds (≈20 tools × 40 parts)|**175** total|**‑78 %**|
+|Avg. first‑time setups/week|**≈15**|**≈1** (expected once master library is fully adopted)|**‑93 %**|
+|Setup minutes saved/run|—|**≈80‑120 min** (20 tools × 4‑6 min saved)|—|
+|Reported build errors (per week)|**≈10**|**0** so far|**‑100 %**|
 
-> **Finding:** A core library of **175 tools** now satisfies all 40 pilot parts, eliminating ~1,225 duplicate builds.
+> **Finding:** For the 40‑part pilot (≈13 % of our 300‑part catalog), a core library of **175 tools** satisfied all needs, eliminating **≈625 duplicate builds** and demonstrating the scalability of this approach.
 
 ---
 
@@ -95,6 +97,6 @@ Provide a clear, data‑backed case for transitioning from part‑specific tool 
 
 ## 7  Conclusion
 
-Moving to a relational master‑tool system leverages Mazak’s existing naming structure to slash duplicate work and de‑risk setups. The 40‑part pilot demonstrates a compelling **87 % reduction** in unique builds. Scaling facility‑wide positions the shop for faster change‑overs, consistent quality, and lower tooling costs.
+Moving to a relational master‑tool system leverages Mazak’s existing naming structure to slash duplicate work and de‑risk setups. The 40‑part pilot demonstrates a compelling **78 % reduction** in unique builds. Scaling facility‑wide positions the shop for faster change‑overs, consistent quality, and lower tooling costs.
 
-> **Recommendation:** Approve expansion of the master tool library to all current production parts and update SOPs accordingly.
+> **Recommendation:** Prioritize onboarding the **top 100 most‑run setups per year** into the master tool library first, then expand incrementally and adjust SOPs accordingly.
