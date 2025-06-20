@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shop Stuff/CNC Tool.md",
+                "file": "Git/Git Obsidian Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNC Tool"
+              "title": "Git Obsidian Setup"
             }
           }
         ],
@@ -210,10 +210,11 @@
   },
   "active": "754d4f0fe62e8500",
   "lastOpenFiles": [
+    "Shop Stuff/CNC Tool.md",
+    "Git/Git Obsidian Setup.md",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "2025-06-17.md",
-    "Shop Stuff/CNC Tool.md",
     "calibre setup/Host Your Calibre Library on GitHub Pages.md",
     "Shop Stuff",
     "Git/Git For Managers.md",
@@ -221,7 +222,6 @@
     "Git/Git workflow.md",
     "calibre setup",
     "Git/Why Git -  A Strategic Solution for Aerospace CNC Manufacturing.md",
-    "Git/Untitled.md",
     "Git"
   ]
 }
